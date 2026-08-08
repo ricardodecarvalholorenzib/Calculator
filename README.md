@@ -15,7 +15,7 @@ Uma calculadora simples desenvolvida em **Python**, criada com o objetivo de pra
 
 ## 🚀 Como executar
 
-Abaixe o .exe e execute.
+`Abaixe o .exe e execute.`
 
 ## 📚 Objetivo
 
