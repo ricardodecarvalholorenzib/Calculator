@@ -35,8 +35,4 @@ Este projeto foi desenvolvido como um exercício prático para aprimorar conheci
 
 Projeto simples, feito para aprendizado e prática de programação em Python.
 
-## 📌 Status
-
-**Concluído** ✅
-
 Projeto simples, feito para aprendizado e prática de programação em Python.
