@@ -13,9 +13,9 @@ Uma calculadora simples desenvolvida em **Python**, criada com o objetivo de pra
 * 🔄 Permite realizar vários cálculos sem precisar reiniciar o programa
 * 🇧🇷 Aceita diferentes formas de escrever as operações, como `+`, `-`, `x` e palavras
 
-## 🚀 Como executar
+## 📦 Download
 
-`Abaixe o .exe e o execute`
+Baixe o arquivo `.exe` disponível no repositório e execute-o para começar a usar a calculadora.
 
 ## 📚 Objetivo
 
@@ -28,6 +28,12 @@ Este projeto foi desenvolvido como um exercício prático para aprimorar conheci
 * Conversão de tipos com `float()`
 * Tratamento de erros com `ValueError`
 * Manipulação de strings
+
+## 📌 Status
+
+**Concluído** ✅
+
+Projeto simples, feito para aprendizado e prática de programação em Python.
 
 ## 📌 Status
 
