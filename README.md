@@ -1,38 +1,52 @@
-# 🧮 Calculadora em Python
+# 🧮 Calculator
 
-Uma calculadora simples desenvolvida em **Python**, criada com o objetivo de praticar conceitos básicos da linguagem, como entrada de dados, estruturas condicionais, tratamento de erros e loops.
+Calculadora simples desenvolvida em **Python** para praticar conceitos fundamentais de programação.
+
+> 🟢 **Status:** concluído
 
 ## ✨ Funcionalidades
 
-* ➕ Adição
-* ➖ Subtração
-* ✖️ Multiplicação
-* ➗ Divisão
-* 🔢 Aceita números com vírgula ou ponto
-* ⚠️ Validação de entradas para evitar valores inválidos
-* 🔄 Permite realizar vários cálculos sem precisar reiniciar o programa
-* 🇧🇷 Aceita diferentes formas de escrever as operações, como `+`, `-`, `x` e palavras
+- ➕ Adição
+- ➖ Subtração
+- ✖️ Multiplicação
+- ➗ Divisão
+- 🔢 Números com vírgula ou ponto
+- ⚠️ Validação de entradas
+- 🔄 Vários cálculos na mesma execução
+- 🇧🇷 Diferentes formas de escrever as operações
 
-## 📦 Download
+## 📦 Como usar
 
-Baixe o arquivo `.exe` disponível no repositório e execute-o para começar a usar a calculadora.
+O repositório atualmente disponibiliza uma versão compilada do programa:
+
+```text
+calculadora.exe
+```
+
+No **Windows**, basta baixar o arquivo `.exe` do repositório e executá-lo.
+
+> Não é necessário instalar Python ou bibliotecas adicionais para usar a versão `.exe` publicada.
+
+## 🛠️ Tecnologias
+
+O projeto foi desenvolvido em Python utilizando principalmente recursos da biblioteca padrão, como:
+
+- `input()` e `print()`
+- `while`
+- `if`, `elif` e `else`
+- `try` e `except`
+- `float()`
+- Manipulação de strings
+
+## 📁 Estrutura atual
+
+```text
+Calculator/
+├── calculadora.exe
+├── README.md
+└── .gitignore
+```
 
 ## 📚 Objetivo
 
-Este projeto foi desenvolvido como um exercício prático para aprimorar conhecimentos em Python, principalmente em:
-
-* `while`
-* `try` e `except`
-* `if`, `elif` e `else`
-* `input()` e `print()`
-* Conversão de tipos com `float()`
-* Tratamento de erros com `ValueError`
-* Manipulação de strings
-
-## 📌 Status
-
-**Concluído** ✅
-
-Projeto simples, feito para aprendizado e prática de programação em Python.
-
-Projeto simples, feito para aprendizado e prática de programação em Python.
+Este projeto foi desenvolvido como um exercício de aprendizado para praticar entrada de dados, condicionais, loops e tratamento de erros em Python.
